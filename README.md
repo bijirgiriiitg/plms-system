@@ -1,6 +1,6 @@
 <h1>Parking Lot Management System </h1>
 
-<p align="justify">Parking Lot Management System is a web platform that a car owner can register the vehicles to record all the details of vehicles and the register details are also removed. This system also save the cars in parking lot by saving the car details along with car owner's name.</p> 
+<p align="justify">Parking Lot Management System is a web platform that a car owner can register the vehicles to record all the details of vehicles and the register details can be removed. This system also save the cars in parking lot by saving the car details along with car owner's name.</p> 
 
 <h2>👇 Implementing features like:</h2>
 
